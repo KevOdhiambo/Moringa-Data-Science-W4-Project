@@ -15,4 +15,13 @@ Overall?
 At the most popular picking hour?
 Do the results change if you consider Utilib and Utilib 1.4 instead of Blue cars? 
 
-To get assistance on such Data science projects in future reach out; email : kevinodhiambo038@gmail.com
+👋 Hi, I’m Kevin Odhiambo
+
+👀 I’m interested in learning more about data engineering as a Data Scientist
+
+🌱 I’m currently learning how to handle data science projects
+
+💞️ I’m looking to collaborate on multiple projects involving Python, R, and SQL
+
+📫 How to reach me: kevinodhiambo038@gmail.com
+
